@@ -1,0 +1,15 @@
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.AssemblyInfoInputs.cache
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.AssemblyInfo.cs
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.sourcelink.json
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/bin/Debug/net8.0/projetoCadastroLivro
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/bin/Debug/net8.0/projetoCadastroLivro.deps.json
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/bin/Debug/net8.0/projetoCadastroLivro.runtimeconfig.json
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/bin/Debug/net8.0/projetoCadastroLivro.dll
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/bin/Debug/net8.0/projetoCadastroLivro.pdb
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.dll
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/refint/projetoCadastroLivro.dll
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.pdb
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/projetoCadastroLivro.genruntimeconfig.cache
+/home/aluno/Documentos/TADS/POO-1/exercicioCadastroLivro/exercicioCadastroDeLivros/projetoCadastroLivro/obj/Debug/net8.0/ref/projetoCadastroLivro.dll
