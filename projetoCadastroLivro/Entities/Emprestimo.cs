@@ -4,8 +4,8 @@ namespace projetoCadastroLivro.Entities;
 
 public class Emprestimo
 {
-	public List<Livro> livros = new List<Livro>();
-	public List<Cliente> clientes = new List<Cliente>();
+	public Livro livro;
+	public Cliente cliente;
 	public DateTime DataEmprestimo { get; set; }
 	public DateTime DataDevolucao { get; set; }
 	
