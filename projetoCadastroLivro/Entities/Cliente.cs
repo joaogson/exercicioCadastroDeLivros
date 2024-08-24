@@ -1,6 +1,6 @@
 using projetoCadastroLivro.Entities;
 
-namespace projetoCadastroLivro.Entiites;
+namespace projetoCadastroLivro.Entities;
 
 
 public class Cliente : Pessoa
