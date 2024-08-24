@@ -1,6 +1,6 @@
 using projetoCadastroLivro;
 
-namespace projetoCadastroLivro;
+namespace projetoCadastroLivro.Interface;
 
 public interface IPessoa
 {
